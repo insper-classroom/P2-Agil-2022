@@ -70,7 +70,7 @@ Uma plataforma LMS, abreviação de *Learning Management System*, é uma platafo
 Foi desenvolvido um protótipo com foco em sistemas com ORM, nele foram modeladas quatro classes principais **ProfessorModel**, **AlunoModel**, **EnunciadoModel** e **TarefaModel**, como mostrado no driagrama a seguir.
 
 
-![Diagrama de classes da prova](https://github.com/Tiagoeem/P2-Agil-2022/blob/main/doc/Diagrama.png?raw=true)
+![Diagrama de classes da prova](https://github.com/insper-classroom/P2-Agil-2022/blob/main/doc/Diagrama.png?raw=true)
 
 
 As funcionalidades e definições das classes ORM desse protótipo são simples:
@@ -103,7 +103,7 @@ Implemente as rotas, métodos e classes necessárias para o completo funcionamen
 
 Existem 5 rotas no arquivo .json de teste para o Postman que estão relacionadas de alguma forma com as tarefas, são as únicas rotas que não estão funcionando e que devem ser implementadas seguindo o escopo apresentado. Na Figura abaixo temos o valor máximo para cada uma das rotas e suas funcionalidades implementadas.
 
-![alt text](https://github.com/Tiagoeem/P2-Agil-2022/blob/main/doc/itens.JPG?raw=true)
+![alt text](https://github.com/insper-classroom/P2-Agil-2022/blob/main/doc/itens.JPG?raw=true)
 
 ### Simplificando (TL;DR)
 
